@@ -16,3 +16,6 @@ openai
 yfinance
 fpdf
 sendgrid
+streamlit
+pandas
+pyyaml
