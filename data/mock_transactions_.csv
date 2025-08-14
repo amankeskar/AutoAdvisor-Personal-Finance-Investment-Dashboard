@@ -1,0 +1,7 @@
+date,description,amount,type,account
+2025-08-02,Uber,-18.75,Debit,Checking
+2025-08-03,Rent,-1200,Debit,Checking
+2025-08-04,Groceries - Walmart,-82.34,Debit,CreditCard
+2025-08-05,Electric Bill,-95.12,Debit,Checking
+2025-08-06,Amazon Prime,-14.99,Debit,CreditCard
+2025-08-08,Paycheck,+3000,Credit,Checking

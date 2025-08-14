@@ -1,0 +1,974 @@
+Date,Description,Amount,Type,Account
+2024-01-01,Rent,-1274.91,Debit,Checking
+2024-01-01,Dining - Local Restaurant,-9.57,Debit,Checking
+2024-01-02,Uber,-39.04,Debit,CreditCard
+2024-01-03,Groceries - Costco,-94.76,Debit,Checking
+2024-01-04,Groceries - Walmart,-70.3,Debit,Checking
+2024-01-05,Paycheck,+2637.16,Credit,Checking
+2024-01-05,Electric Bill,-108.6,Debit,Checking
+2024-01-05,Groceries - Costco,-51.71,Debit,Checking
+2024-01-06,Dining - Chipotle,-32.55,Debit,Checking
+2024-01-07,Internet - Spectrum,-86.5,Debit,Checking
+2024-01-07,Groceries - Walmart,-87.21,Debit,Checking
+2024-01-08,Amazon,-14.98,Debit,CreditCard
+2024-01-09,Gas - NationalGrid,-54.42,Debit,Checking
+2024-01-09,Dining - Subway,-29.66,Debit,CreditCard
+2024-01-10,Target,-288.61,Debit,CreditCard
+2024-01-11,Groceries - Walmart,-69.43,Debit,CreditCard
+2024-01-11,Starbucks,-7.32,Debit,CreditCard
+2024-01-11,Dining - Subway,-16.4,Debit,Checking
+2024-01-12,Paycheck,+3183.68,Credit,Checking
+2024-01-12,Internet - Spectrum,-85.5,Debit,CreditCard
+2024-01-12,Amazon Prime,-15.66,Debit,CreditCard
+2024-01-12,Starbucks,-6.57,Debit,Checking
+2024-01-13,Uber,-11.45,Debit,CreditCard
+2024-01-13,Amazon,-44.58,Debit,CreditCard
+2024-01-14,Groceries - Costco,-113.87,Debit,Checking
+2024-01-14,Amazon,-27.73,Debit,CreditCard
+2024-01-16,Amazon,-56.98,Debit,CreditCard
+2024-01-17,Groceries - Costco,-131.93,Debit,CreditCard
+2024-01-17,Amazon,-113.72,Debit,CreditCard
+2024-01-18,Spotify,-11.81,Debit,CreditCard
+2024-01-18,Netflix,-12.91,Debit,CreditCard
+2024-01-19,Paycheck,+2629.51,Credit,Checking
+2024-01-19,Lyft,-16.92,Debit,CreditCard
+2024-01-22,Amazon,-84.53,Debit,CreditCard
+2024-01-22,Dining - Chipotle,-21.83,Debit,CreditCard
+2024-01-23,Starbucks,-6.45,Debit,Checking
+2024-01-23,Dining - Subway,-17.21,Debit,Checking
+2024-01-25,Starbucks,-3.47,Debit,CreditCard
+2024-01-26,Paycheck,+2879.37,Credit,Checking
+2024-01-27,Groceries - Costco,-201.74,Debit,Checking
+2024-01-27,Uber,-11.25,Debit,CreditCard
+2024-01-27,Dining - Chipotle,-12.34,Debit,Checking
+2024-01-30,Groceries - Costco,-87.74,Debit,Checking
+2024-01-30,Starbucks,-7.87,Debit,Checking
+2024-02-01,Rent,-1204.86,Debit,Checking
+2024-02-01,Starbucks,-7.7,Debit,Checking
+2024-02-01,Refund - Amazon,+112.12,Credit,CreditCard
+2024-02-02,Paycheck,+2942.55,Credit,Checking
+2024-02-03,Groceries - Costco,-70.51,Debit,CreditCard
+2024-02-05,Gas - NationalGrid,-92.73,Debit,CreditCard
+2024-02-07,Internet - Spectrum,-91.83,Debit,CreditCard
+2024-02-07,Amazon,-13.95,Debit,CreditCard
+2024-02-08,Groceries - Costco,-146.35,Debit,Checking
+2024-02-08,Starbucks,-3.19,Debit,CreditCard
+2024-02-08,Dining - Local Restaurant,-22.1,Debit,Checking
+2024-02-09,Paycheck,+2772.66,Credit,Checking
+2024-02-09,Internet - Spectrum,-84.92,Debit,Checking
+2024-02-09,Groceries - Walmart,-35.68,Debit,CreditCard
+2024-02-11,Groceries - Costco,-213.28,Debit,CreditCard
+2024-02-11,Dining - Local Restaurant,-12.22,Debit,Checking
+2024-02-12,Water Bill,-41.97,Debit,Checking
+2024-02-12,Amazon Prime,-15.14,Debit,CreditCard
+2024-02-13,Groceries - Walmart,-57.25,Debit,Checking
+2024-02-13,Amazon,-15.06,Debit,CreditCard
+2024-02-13,Dining - Subway,-31.1,Debit,CreditCard
+2024-02-14,Starbucks,-5.46,Debit,CreditCard
+2024-02-15,Uber,-19.99,Debit,CreditCard
+2024-02-16,Paycheck,+3126.95,Credit,Checking
+2024-02-16,Groceries - Walmart,-37.76,Debit,CreditCard
+2024-02-16,Uber,-26.74,Debit,CreditCard
+2024-02-18,Spotify,-12.62,Debit,CreditCard
+2024-02-18,Netflix,-11.57,Debit,CreditCard
+2024-02-18,Groceries - Costco,-58.14,Debit,CreditCard
+2024-02-18,Starbucks,-3.47,Debit,CreditCard
+2024-02-18,Amazon,-102.94,Debit,CreditCard
+2024-02-18,Dining - Chipotle,-29.99,Debit,CreditCard
+2024-02-19,Groceries - Walmart,-106.64,Debit,Checking
+2024-02-20,Groceries - Costco,-175.11,Debit,CreditCard
+2024-02-21,Groceries - Costco,-207.54,Debit,CreditCard
+2024-02-23,Paycheck,+2608.67,Credit,Checking
+2024-02-23,Starbucks,-4.6,Debit,Checking
+2024-02-24,Groceries - Walmart,-62.25,Debit,CreditCard
+2024-02-25,Groceries - Walmart,-84.39,Debit,Checking
+2024-02-25,Starbucks,-5.75,Debit,Checking
+2024-02-26,Groceries - Walmart,-113.77,Debit,Checking
+2024-02-26,Lyft,-10.69,Debit,CreditCard
+2024-02-26,Dining - Local Restaurant,-30.19,Debit,Checking
+2024-02-27,Groceries - Costco,-55.27,Debit,CreditCard
+2024-02-28,Amazon,-71.42,Debit,CreditCard
+2024-02-29,Groceries - Costco,-128.67,Debit,CreditCard
+2024-02-29,Starbucks,-5.34,Debit,Checking
+2024-02-29,Uber,-11.8,Debit,CreditCard
+2024-02-29,Amazon,-92.06,Debit,CreditCard
+2024-03-01,Paycheck,+2899.9,Credit,Checking
+2024-03-01,Rent,-1257.14,Debit,Checking
+2024-03-01,Starbucks,-7.82,Debit,CreditCard
+2024-03-01,Lyft,-39.04,Debit,CreditCard
+2024-03-01,Target,-220.53,Debit,CreditCard
+2024-03-03,Amazon,-114.55,Debit,CreditCard
+2024-03-05,Water Bill,-23.11,Debit,CreditCard
+2024-03-06,Starbucks,-7.55,Debit,Checking
+2024-03-07,Gas - NationalGrid,-67.64,Debit,Checking
+2024-03-07,Lyft,-8.84,Debit,CreditCard
+2024-03-08,Paycheck,+2720.33,Credit,Checking
+2024-03-09,Internet - Spectrum,-76.59,Debit,Checking
+2024-03-09,Groceries - Costco,-50.15,Debit,Checking
+2024-03-12,Internet - Spectrum,-64.54,Debit,CreditCard
+2024-03-12,Amazon Prime,-15.01,Debit,CreditCard
+2024-03-13,Amazon,-78.23,Debit,CreditCard
+2024-03-14,Groceries - Walmart,-31.6,Debit,Checking
+2024-03-15,Paycheck,+2878.6,Credit,Checking
+2024-03-16,Groceries - Costco,-206.79,Debit,CreditCard
+2024-03-17,Groceries - Walmart,-99.67,Debit,Checking
+2024-03-17,Starbucks,-3.38,Debit,CreditCard
+2024-03-17,Amazon,-25.27,Debit,CreditCard
+2024-03-18,Spotify,-10.38,Debit,CreditCard
+2024-03-18,Netflix,-17.17,Debit,CreditCard
+2024-03-18,Dining - Subway,-12.56,Debit,Checking
+2024-03-19,Groceries - Walmart,-39.76,Debit,Checking
+2024-03-19,Starbucks,-5.3,Debit,Checking
+2024-03-20,Groceries - Walmart,-117.94,Debit,CreditCard
+2024-03-20,Uber,-35.95,Debit,CreditCard
+2024-03-20,Dining - Local Restaurant,-15.48,Debit,Checking
+2024-03-21,Starbucks,-4.05,Debit,Checking
+2024-03-22,Paycheck,+2970.03,Credit,Checking
+2024-03-22,Starbucks,-4.26,Debit,CreditCard
+2024-03-23,Groceries - Walmart,-79.22,Debit,CreditCard
+2024-03-24,Groceries - Costco,-78.06,Debit,Checking
+2024-03-24,Uber,-36.5,Debit,CreditCard
+2024-03-25,Starbucks,-5.69,Debit,CreditCard
+2024-03-26,Groceries - Costco,-105.35,Debit,CreditCard
+2024-03-27,Groceries - Costco,-58.32,Debit,CreditCard
+2024-03-27,Starbucks,-4.23,Debit,Checking
+2024-03-28,Starbucks,-5.62,Debit,Checking
+2024-03-28,Dining - Chipotle,-18.74,Debit,Checking
+2024-03-29,Paycheck,+3292.41,Credit,Checking
+2024-03-31,Starbucks,-3.57,Debit,CreditCard
+2024-04-01,Rent,-1296.23,Debit,Checking
+2024-04-01,Starbucks,-4.68,Debit,Checking
+2024-04-01,Target,-142.49,Debit,CreditCard
+2024-04-03,Amazon,-113.22,Debit,CreditCard
+2024-04-03,Dining - Local Restaurant,-9.8,Debit,Checking
+2024-04-05,Paycheck,+2731.41,Credit,Checking
+2024-04-05,Electric Bill,-125.17,Debit,Checking
+2024-04-06,Groceries - Walmart,-71.46,Debit,Checking
+2024-04-07,Electric Bill,-131.97,Debit,Checking
+2024-04-07,Groceries - Costco,-137.84,Debit,Checking
+2024-04-07,Target,-258.53,Debit,CreditCard
+2024-04-09,Water Bill,-32.47,Debit,CreditCard
+2024-04-09,Groceries - Walmart,-111.83,Debit,Checking
+2024-04-09,Starbucks,-5.85,Debit,CreditCard
+2024-04-10,Groceries - Walmart,-123.11,Debit,CreditCard
+2024-04-10,Starbucks,-4.99,Debit,CreditCard
+2024-04-10,Amazon,-89.45,Debit,CreditCard
+2024-04-11,Dining - Chipotle,-32.53,Debit,Checking
+2024-04-12,Paycheck,+2920.68,Credit,Checking
+2024-04-12,Electric Bill,-96.96,Debit,CreditCard
+2024-04-12,Amazon Prime,-15.84,Debit,CreditCard
+2024-04-12,Groceries - Costco,-145.52,Debit,CreditCard
+2024-04-12,Best Buy,-374.2,Debit,CreditCard
+2024-04-14,Dining - Subway,-34.59,Debit,Checking
+2024-04-15,Groceries - Walmart,-131.29,Debit,Checking
+2024-04-16,Groceries - Costco,-184.51,Debit,CreditCard
+2024-04-16,Starbucks,-4.67,Debit,Checking
+2024-04-17,Groceries - Walmart,-111.13,Debit,Checking
+2024-04-17,Dining - Chipotle,-12.76,Debit,CreditCard
+2024-04-18,Spotify,-10.68,Debit,CreditCard
+2024-04-18,Netflix,-17.32,Debit,CreditCard
+2024-04-18,Groceries - Walmart,-93.86,Debit,CreditCard
+2024-04-18,Uber,-29.23,Debit,CreditCard
+2024-04-19,Paycheck,+2931.7,Credit,Checking
+2024-04-19,Groceries - Costco,-219.44,Debit,CreditCard
+2024-04-19,Amazon,-33.09,Debit,CreditCard
+2024-04-20,Groceries - Walmart,-34.02,Debit,Checking
+2024-04-20,Amazon,-59.86,Debit,CreditCard
+2024-04-21,Groceries - Costco,-140.74,Debit,Checking
+2024-04-21,Starbucks,-3.91,Debit,Checking
+2024-04-22,Uber,-13.0,Debit,CreditCard
+2024-04-23,Groceries - Walmart,-55.42,Debit,Checking
+2024-04-23,Uber,-11.33,Debit,CreditCard
+2024-04-23,Dining - Subway,-25.62,Debit,CreditCard
+2024-04-24,Groceries - Costco,-83.77,Debit,Checking
+2024-04-25,Groceries - Costco,-92.77,Debit,Checking
+2024-04-25,Uber,-10.74,Debit,CreditCard
+2024-04-25,Dining - Subway,-12.9,Debit,Checking
+2024-04-26,Paycheck,+2937.14,Credit,Checking
+2024-04-27,Groceries - Costco,-152.35,Debit,CreditCard
+2024-04-28,Starbucks,-7.34,Debit,CreditCard
+2024-04-29,Groceries - Costco,-88.36,Debit,CreditCard
+2024-04-29,Dining - Local Restaurant,-30.54,Debit,CreditCard
+2024-04-30,Starbucks,-4.36,Debit,Checking
+2024-04-30,Uber,-37.26,Debit,CreditCard
+2024-04-30,Amazon,-40.15,Debit,CreditCard
+2024-05-01,Rent,-1365.95,Debit,Checking
+2024-05-01,Groceries - Costco,-41.98,Debit,Checking
+2024-05-01,Starbucks,-7.5,Debit,Checking
+2024-05-02,Groceries - Walmart,-130.59,Debit,CreditCard
+2024-05-02,Dining - Chipotle,-12.49,Debit,Checking
+2024-05-03,Paycheck,+2666.24,Credit,Checking
+2024-05-03,Starbucks,-4.95,Debit,CreditCard
+2024-05-05,Internet - Spectrum,-61.25,Debit,Checking
+2024-05-05,Groceries - Walmart,-95.46,Debit,Checking
+2024-05-05,Starbucks,-5.48,Debit,Checking
+2024-05-06,Groceries - Walmart,-110.1,Debit,Checking
+2024-05-07,Gas - NationalGrid,-101.95,Debit,Checking
+2024-05-07,Dining - Local Restaurant,-32.77,Debit,Checking
+2024-05-09,Electric Bill,-124.52,Debit,Checking
+2024-05-10,Paycheck,+3390.13,Credit,Checking
+2024-05-10,Starbucks,-6.53,Debit,CreditCard
+2024-05-11,Groceries - Costco,-165.54,Debit,CreditCard
+2024-05-12,Internet - Spectrum,-94.48,Debit,CreditCard
+2024-05-12,Amazon Prime,-15.53,Debit,CreditCard
+2024-05-12,Groceries - Walmart,-121.18,Debit,CreditCard
+2024-05-12,Starbucks,-5.98,Debit,CreditCard
+2024-05-12,Amazon,-86.59,Debit,CreditCard
+2024-05-13,Groceries - Walmart,-64.68,Debit,CreditCard
+2024-05-14,Starbucks,-3.12,Debit,CreditCard
+2024-05-14,Best Buy,-221.0,Debit,CreditCard
+2024-05-17,Paycheck,+2791.02,Credit,Checking
+2024-05-17,Groceries - Walmart,-69.01,Debit,Checking
+2024-05-17,Dining - Subway,-8.48,Debit,Checking
+2024-05-18,Spotify,-10.71,Debit,CreditCard
+2024-05-18,Netflix,-13.07,Debit,CreditCard
+2024-05-18,Starbucks,-7.75,Debit,Checking
+2024-05-18,Amazon,-106.7,Debit,CreditCard
+2024-05-19,Starbucks,-7.96,Debit,Checking
+2024-05-20,Starbucks,-3.88,Debit,CreditCard
+2024-05-21,Groceries - Walmart,-136.6,Debit,CreditCard
+2024-05-21,Dining - Chipotle,-18.7,Debit,Checking
+2024-05-22,Starbucks,-7.08,Debit,CreditCard
+2024-05-23,Starbucks,-7.39,Debit,CreditCard
+2024-05-23,Target,-383.15,Debit,CreditCard
+2024-05-24,Paycheck,+3124.19,Credit,Checking
+2024-05-24,Starbucks,-5.04,Debit,CreditCard
+2024-05-25,Groceries - Costco,-79.63,Debit,Checking
+2024-05-25,Lyft,-35.24,Debit,CreditCard
+2024-05-28,Dining - Local Restaurant,-31.78,Debit,Checking
+2024-05-29,Groceries - Walmart,-120.84,Debit,CreditCard
+2024-05-29,Starbucks,-4.68,Debit,Checking
+2024-05-30,Starbucks,-4.44,Debit,Checking
+2024-05-31,Paycheck,+3107.2,Credit,Checking
+2024-05-31,Uber,-32.35,Debit,CreditCard
+2024-06-01,Rent,-1326.52,Debit,Checking
+2024-06-01,Starbucks,-7.69,Debit,CreditCard
+2024-06-01,Amazon,-87.9,Debit,CreditCard
+2024-06-01,Dining - Subway,-23.72,Debit,Checking
+2024-06-02,Starbucks,-7.36,Debit,CreditCard
+2024-06-03,Starbucks,-3.11,Debit,Checking
+2024-06-04,Groceries - Costco,-89.25,Debit,CreditCard
+2024-06-04,Dining - Subway,-29.46,Debit,Checking
+2024-06-05,Electric Bill,-77.66,Debit,CreditCard
+2024-06-05,Groceries - Costco,-162.49,Debit,Checking
+2024-06-05,Dining - Chipotle,-19.67,Debit,CreditCard
+2024-06-06,Groceries - Walmart,-100.24,Debit,CreditCard
+2024-06-07,Paycheck,+2783.96,Credit,Checking
+2024-06-07,Internet - Spectrum,-68.52,Debit,CreditCard
+2024-06-07,Groceries - Costco,-157.3,Debit,Checking
+2024-06-09,Electric Bill,-70.5,Debit,Checking
+2024-06-09,Groceries - Walmart,-131.29,Debit,Checking
+2024-06-09,Dining - Subway,-11.38,Debit,Checking
+2024-06-10,Groceries - Costco,-76.09,Debit,Checking
+2024-06-10,Uber,-26.62,Debit,CreditCard
+2024-06-11,Starbucks,-3.36,Debit,CreditCard
+2024-06-12,Water Bill,-47.8,Debit,Checking
+2024-06-12,Amazon Prime,-15.58,Debit,CreditCard
+2024-06-12,Starbucks,-5.4,Debit,CreditCard
+2024-06-12,Uber,-15.75,Debit,CreditCard
+2024-06-12,Dining - Local Restaurant,-21.47,Debit,Checking
+2024-06-13,Uber,-18.45,Debit,CreditCard
+2024-06-13,Dining - Subway,-17.47,Debit,CreditCard
+2024-06-14,Paycheck,+2662.86,Credit,Checking
+2024-06-14,Groceries - Walmart,-44.6,Debit,Checking
+2024-06-15,Groceries - Walmart,-100.01,Debit,Checking
+2024-06-15,Lyft,-37.96,Debit,CreditCard
+2024-06-15,Amazon,-88.0,Debit,CreditCard
+2024-06-16,Target,-228.09,Debit,CreditCard
+2024-06-17,Amazon,-37.18,Debit,CreditCard
+2024-06-17,Dining - Chipotle,-31.54,Debit,CreditCard
+2024-06-18,Spotify,-12.9,Debit,CreditCard
+2024-06-18,Netflix,-12.7,Debit,CreditCard
+2024-06-18,Groceries - Costco,-182.15,Debit,Checking
+2024-06-20,Groceries - Costco,-86.38,Debit,Checking
+2024-06-21,Paycheck,+2876.75,Credit,Checking
+2024-06-21,Groceries - Walmart,-138.64,Debit,CreditCard
+2024-06-21,Starbucks,-7.34,Debit,Checking
+2024-06-23,Groceries - Costco,-152.13,Debit,Checking
+2024-06-23,Amazon,-109.99,Debit,CreditCard
+2024-06-23,Dining - Chipotle,-14.41,Debit,CreditCard
+2024-06-24,Groceries - Costco,-193.79,Debit,CreditCard
+2024-06-25,Groceries - Walmart,-95.22,Debit,Checking
+2024-06-25,Starbucks,-4.96,Debit,Checking
+2024-06-26,Starbucks,-7.85,Debit,Checking
+2024-06-26,Dining - Subway,-12.58,Debit,CreditCard
+2024-06-27,Groceries - Costco,-189.2,Debit,Checking
+2024-06-28,Paycheck,+2734.1,Credit,Checking
+2024-06-28,Groceries - Costco,-172.55,Debit,CreditCard
+2024-06-29,Starbucks,-3.56,Debit,CreditCard
+2024-06-29,Amazon,-113.03,Debit,CreditCard
+2024-06-29,Dining - Local Restaurant,-11.3,Debit,CreditCard
+2024-06-30,Amazon,-118.53,Debit,CreditCard
+2024-06-30,Refund - Amazon,+114.7,Credit,CreditCard
+2024-07-01,Rent,-1327.82,Debit,Checking
+2024-07-02,Groceries - Walmart,-63.87,Debit,Checking
+2024-07-05,Paycheck,+2624.31,Credit,Checking
+2024-07-05,Water Bill,-57.24,Debit,Checking
+2024-07-06,Groceries - Costco,-158.41,Debit,Checking
+2024-07-06,Uber,-39.27,Debit,CreditCard
+2024-07-07,Gas - NationalGrid,-81.03,Debit,CreditCard
+2024-07-08,Dining - Local Restaurant,-22.7,Debit,CreditCard
+2024-07-08,Refund - Amazon,+45.7,Credit,CreditCard
+2024-07-09,Gas - NationalGrid,-62.98,Debit,Checking
+2024-07-09,Groceries - Costco,-165.18,Debit,Checking
+2024-07-10,Groceries - Costco,-148.62,Debit,Checking
+2024-07-11,Lyft,-18.92,Debit,CreditCard
+2024-07-12,Paycheck,+3026.88,Credit,Checking
+2024-07-12,Electric Bill,-108.63,Debit,Checking
+2024-07-12,Amazon Prime,-15.29,Debit,CreditCard
+2024-07-12,Amazon,-10.83,Debit,CreditCard
+2024-07-13,Groceries - Costco,-206.87,Debit,CreditCard
+2024-07-13,Starbucks,-7.67,Debit,Checking
+2024-07-13,Amazon,-38.25,Debit,CreditCard
+2024-07-15,Groceries - Costco,-61.94,Debit,CreditCard
+2024-07-15,Starbucks,-6.41,Debit,Checking
+2024-07-17,Groceries - Costco,-153.97,Debit,CreditCard
+2024-07-18,Spotify,-9.85,Debit,CreditCard
+2024-07-18,Netflix,-14.89,Debit,CreditCard
+2024-07-18,Groceries - Costco,-191.18,Debit,CreditCard
+2024-07-19,Paycheck,+3258.09,Credit,Checking
+2024-07-19,Groceries - Costco,-160.16,Debit,CreditCard
+2024-07-19,Starbucks,-6.12,Debit,Checking
+2024-07-19,Dining - Chipotle,-27.9,Debit,CreditCard
+2024-07-20,Groceries - Costco,-57.23,Debit,Checking
+2024-07-20,Starbucks,-6.21,Debit,CreditCard
+2024-07-21,Amazon,-54.48,Debit,CreditCard
+2024-07-22,Amazon,-73.62,Debit,CreditCard
+2024-07-23,Groceries - Costco,-200.95,Debit,Checking
+2024-07-23,Starbucks,-4.62,Debit,CreditCard
+2024-07-23,Dining - Subway,-22.01,Debit,Checking
+2024-07-24,Starbucks,-5.7,Debit,CreditCard
+2024-07-25,Groceries - Costco,-160.51,Debit,CreditCard
+2024-07-26,Paycheck,+2648.11,Credit,Checking
+2024-07-27,Groceries - Costco,-121.07,Debit,CreditCard
+2024-07-28,Groceries - Walmart,-73.92,Debit,CreditCard
+2024-07-28,Starbucks,-7.96,Debit,Checking
+2024-07-29,Starbucks,-6.78,Debit,Checking
+2024-07-30,Groceries - Costco,-94.56,Debit,CreditCard
+2024-07-30,Target,-230.44,Debit,CreditCard
+2024-07-31,Groceries - Walmart,-96.07,Debit,CreditCard
+2024-08-01,Rent,-1241.7,Debit,Checking
+2024-08-01,Starbucks,-7.09,Debit,Checking
+2024-08-02,Paycheck,+3232.02,Credit,Checking
+2024-08-02,Groceries - Walmart,-38.9,Debit,Checking
+2024-08-05,Electric Bill,-89.4,Debit,Checking
+2024-08-05,Groceries - Walmart,-32.84,Debit,CreditCard
+2024-08-05,Starbucks,-7.82,Debit,Checking
+2024-08-06,Lyft,-28.51,Debit,CreditCard
+2024-08-07,Gas - NationalGrid,-43.68,Debit,Checking
+2024-08-07,Groceries - Costco,-180.54,Debit,CreditCard
+2024-08-07,Lyft,-39.84,Debit,CreditCard
+2024-08-07,Amazon,-118.2,Debit,CreditCard
+2024-08-08,Groceries - Walmart,-63.36,Debit,Checking
+2024-08-08,Starbucks,-6.46,Debit,Checking
+2024-08-08,Uber,-24.3,Debit,CreditCard
+2024-08-09,Paycheck,+2845.0,Credit,Checking
+2024-08-09,Gas - NationalGrid,-86.15,Debit,Checking
+2024-08-10,Groceries - Walmart,-75.55,Debit,CreditCard
+2024-08-10,Dining - Chipotle,-19.24,Debit,Checking
+2024-08-11,Groceries - Walmart,-58.58,Debit,CreditCard
+2024-08-11,Refund - Amazon,+36.53,Credit,CreditCard
+2024-08-12,Internet - Spectrum,-99.03,Debit,CreditCard
+2024-08-12,Amazon Prime,-15.4,Debit,CreditCard
+2024-08-12,Lyft,-25.53,Debit,CreditCard
+2024-08-13,Starbucks,-4.62,Debit,CreditCard
+2024-08-15,Dining - Local Restaurant,-32.35,Debit,CreditCard
+2024-08-16,Paycheck,+3109.76,Credit,Checking
+2024-08-16,Dining - Local Restaurant,-22.0,Debit,CreditCard
+2024-08-17,Amazon,-88.8,Debit,CreditCard
+2024-08-17,Dining - Chipotle,-9.92,Debit,CreditCard
+2024-08-17,Refund - Amazon,+115.22,Credit,CreditCard
+2024-08-18,Spotify,-11.95,Debit,CreditCard
+2024-08-18,Netflix,-12.83,Debit,CreditCard
+2024-08-18,Groceries - Costco,-102.95,Debit,CreditCard
+2024-08-18,Dining - Chipotle,-10.66,Debit,CreditCard
+2024-08-19,Lyft,-10.63,Debit,CreditCard
+2024-08-20,Amazon,-95.21,Debit,CreditCard
+2024-08-21,Groceries - Walmart,-136.53,Debit,CreditCard
+2024-08-22,Amazon,-112.09,Debit,CreditCard
+2024-08-23,Paycheck,+2945.66,Credit,Checking
+2024-08-23,Groceries - Costco,-150.33,Debit,Checking
+2024-08-23,Amazon,-107.56,Debit,CreditCard
+2024-08-26,Amazon,-24.49,Debit,CreditCard
+2024-08-27,Groceries - Costco,-131.05,Debit,Checking
+2024-08-28,Groceries - Costco,-141.7,Debit,CreditCard
+2024-08-29,Starbucks,-4.23,Debit,CreditCard
+2024-08-29,Dining - Local Restaurant,-18.84,Debit,Checking
+2024-08-30,Paycheck,+2763.23,Credit,Checking
+2024-08-31,Starbucks,-6.8,Debit,Checking
+2024-08-31,Uber,-31.86,Debit,CreditCard
+2024-09-01,Rent,-1265.39,Debit,Checking
+2024-09-01,Groceries - Walmart,-63.62,Debit,CreditCard
+2024-09-02,Refund - Amazon,+78.15,Credit,CreditCard
+2024-09-03,Groceries - Walmart,-117.36,Debit,Checking
+2024-09-03,Starbucks,-5.94,Debit,Checking
+2024-09-03,Dining - Subway,-23.66,Debit,CreditCard
+2024-09-05,Water Bill,-39.93,Debit,CreditCard
+2024-09-05,Groceries - Costco,-50.54,Debit,Checking
+2024-09-06,Paycheck,+2952.16,Credit,Checking
+2024-09-06,Groceries - Walmart,-66.1,Debit,CreditCard
+2024-09-06,Lyft,-15.06,Debit,CreditCard
+2024-09-07,Electric Bill,-134.65,Debit,CreditCard
+2024-09-07,Dining - Subway,-19.07,Debit,Checking
+2024-09-08,Groceries - Costco,-142.94,Debit,CreditCard
+2024-09-09,Gas - NationalGrid,-32.18,Debit,CreditCard
+2024-09-10,Groceries - Walmart,-126.0,Debit,CreditCard
+2024-09-11,Groceries - Walmart,-38.87,Debit,CreditCard
+2024-09-12,Gas - NationalGrid,-44.3,Debit,CreditCard
+2024-09-12,Amazon Prime,-14.83,Debit,CreditCard
+2024-09-12,Groceries - Walmart,-112.65,Debit,CreditCard
+2024-09-12,Amazon,-41.04,Debit,CreditCard
+2024-09-13,Paycheck,+3325.0,Credit,Checking
+2024-09-13,Groceries - Costco,-88.95,Debit,CreditCard
+2024-09-13,Dining - Local Restaurant,-21.16,Debit,Checking
+2024-09-14,Groceries - Costco,-203.16,Debit,Checking
+2024-09-14,Starbucks,-5.66,Debit,Checking
+2024-09-15,Dining - Subway,-19.31,Debit,Checking
+2024-09-16,Dining - Chipotle,-23.26,Debit,CreditCard
+2024-09-17,Amazon,-34.78,Debit,CreditCard
+2024-09-18,Spotify,-11.24,Debit,CreditCard
+2024-09-18,Netflix,-14.19,Debit,CreditCard
+2024-09-18,Groceries - Walmart,-124.62,Debit,CreditCard
+2024-09-18,Uber,-30.65,Debit,CreditCard
+2024-09-18,Dining - Chipotle,-20.37,Debit,CreditCard
+2024-09-19,Groceries - Costco,-210.23,Debit,CreditCard
+2024-09-20,Paycheck,+3036.35,Credit,Checking
+2024-09-20,Groceries - Walmart,-86.38,Debit,CreditCard
+2024-09-20,Amazon,-32.15,Debit,CreditCard
+2024-09-21,Groceries - Costco,-176.22,Debit,CreditCard
+2024-09-22,Groceries - Costco,-121.22,Debit,CreditCard
+2024-09-22,Amazon,-61.03,Debit,CreditCard
+2024-09-23,Starbucks,-6.28,Debit,CreditCard
+2024-09-24,Groceries - Costco,-134.2,Debit,Checking
+2024-09-25,Groceries - Costco,-204.72,Debit,Checking
+2024-09-26,Dining - Local Restaurant,-13.45,Debit,Checking
+2024-09-27,Paycheck,+3315.19,Credit,Checking
+2024-09-27,Starbucks,-5.2,Debit,CreditCard
+2024-09-27,Target,-325.37,Debit,CreditCard
+2024-09-28,Groceries - Walmart,-138.25,Debit,Checking
+2024-09-29,Groceries - Walmart,-31.39,Debit,Checking
+2024-09-30,Starbucks,-7.29,Debit,Checking
+2024-10-01,Rent,-1294.23,Debit,Checking
+2024-10-02,Groceries - Walmart,-108.32,Debit,Checking
+2024-10-02,Uber,-15.68,Debit,CreditCard
+2024-10-02,Amazon,-59.54,Debit,CreditCard
+2024-10-04,Paycheck,+2701.01,Credit,Checking
+2024-10-04,Amazon,-104.13,Debit,CreditCard
+2024-10-05,Internet - Spectrum,-71.17,Debit,CreditCard
+2024-10-06,Groceries - Walmart,-101.85,Debit,Checking
+2024-10-07,Gas - NationalGrid,-53.43,Debit,CreditCard
+2024-10-07,Amazon,-60.64,Debit,CreditCard
+2024-10-08,Groceries - Costco,-215.82,Debit,Checking
+2024-10-08,Starbucks,-5.11,Debit,Checking
+2024-10-08,Uber,-31.68,Debit,CreditCard
+2024-10-09,Water Bill,-31.69,Debit,Checking
+2024-10-09,Target,-296.13,Debit,CreditCard
+2024-10-10,Groceries - Costco,-197.1,Debit,CreditCard
+2024-10-10,Starbucks,-6.52,Debit,CreditCard
+2024-10-10,Amazon,-11.36,Debit,CreditCard
+2024-10-11,Paycheck,+3078.69,Credit,Checking
+2024-10-11,Groceries - Walmart,-62.99,Debit,Checking
+2024-10-11,Uber,-36.89,Debit,CreditCard
+2024-10-12,Electric Bill,-131.38,Debit,CreditCard
+2024-10-12,Amazon Prime,-13.56,Debit,CreditCard
+2024-10-12,Groceries - Walmart,-56.35,Debit,Checking
+2024-10-12,Lyft,-26.65,Debit,CreditCard
+2024-10-13,Groceries - Costco,-189.65,Debit,CreditCard
+2024-10-13,Uber,-11.0,Debit,CreditCard
+2024-10-16,Dining - Local Restaurant,-18.38,Debit,CreditCard
+2024-10-18,Paycheck,+2656.75,Credit,Checking
+2024-10-18,Spotify,-10.02,Debit,CreditCard
+2024-10-18,Netflix,-12.89,Debit,CreditCard
+2024-10-18,Starbucks,-3.7,Debit,Checking
+2024-10-19,Groceries - Costco,-149.94,Debit,CreditCard
+2024-10-19,Dining - Chipotle,-8.21,Debit,CreditCard
+2024-10-20,Groceries - Costco,-59.44,Debit,CreditCard
+2024-10-21,Uber,-27.75,Debit,CreditCard
+2024-10-21,Amazon,-65.82,Debit,CreditCard
+2024-10-23,Groceries - Costco,-203.37,Debit,Checking
+2024-10-24,Starbucks,-6.18,Debit,CreditCard
+2024-10-24,Lyft,-16.24,Debit,CreditCard
+2024-10-24,Amazon,-85.52,Debit,CreditCard
+2024-10-24,Dining - Subway,-18.36,Debit,CreditCard
+2024-10-25,Paycheck,+2895.24,Credit,Checking
+2024-10-25,Groceries - Costco,-115.41,Debit,CreditCard
+2024-10-25,Uber,-10.57,Debit,CreditCard
+2024-10-26,Amazon,-110.46,Debit,CreditCard
+2024-10-27,Starbucks,-7.51,Debit,Checking
+2024-10-27,Lyft,-25.09,Debit,CreditCard
+2024-10-27,Amazon,-56.42,Debit,CreditCard
+2024-10-28,Starbucks,-3.62,Debit,CreditCard
+2024-10-31,Groceries - Walmart,-65.08,Debit,CreditCard
+2024-11-01,Paycheck,+2899.64,Credit,Checking
+2024-11-01,Rent,-1233.37,Debit,Checking
+2024-11-01,Groceries - Costco,-65.67,Debit,CreditCard
+2024-11-01,Dining - Chipotle,-25.44,Debit,CreditCard
+2024-11-02,Groceries - Costco,-52.91,Debit,Checking
+2024-11-03,Groceries - Costco,-217.85,Debit,Checking
+2024-11-03,Amazon,-13.03,Debit,CreditCard
+2024-11-04,Groceries - Costco,-47.02,Debit,CreditCard
+2024-11-04,Starbucks,-4.94,Debit,CreditCard
+2024-11-04,Amazon,-60.44,Debit,CreditCard
+2024-11-05,Water Bill,-24.65,Debit,CreditCard
+2024-11-06,Groceries - Walmart,-135.72,Debit,Checking
+2024-11-07,Electric Bill,-104.3,Debit,Checking
+2024-11-08,Paycheck,+2755.7,Credit,Checking
+2024-11-08,Groceries - Costco,-101.64,Debit,CreditCard
+2024-11-09,Internet - Spectrum,-65.57,Debit,CreditCard
+2024-11-09,Groceries - Costco,-152.72,Debit,CreditCard
+2024-11-10,Dining - Chipotle,-20.84,Debit,Checking
+2024-11-11,Groceries - Costco,-213.53,Debit,Checking
+2024-11-12,Gas - NationalGrid,-101.15,Debit,Checking
+2024-11-12,Amazon Prime,-13.37,Debit,CreditCard
+2024-11-12,Dining - Subway,-20.49,Debit,CreditCard
+2024-11-15,Paycheck,+3384.59,Credit,Checking
+2024-11-15,Groceries - Costco,-188.95,Debit,CreditCard
+2024-11-16,Dining - Subway,-31.85,Debit,CreditCard
+2024-11-17,Amazon,-85.65,Debit,CreditCard
+2024-11-18,Spotify,-9.54,Debit,CreditCard
+2024-11-18,Netflix,-12.4,Debit,CreditCard
+2024-11-18,Groceries - Costco,-184.8,Debit,CreditCard
+2024-11-18,Dining - Subway,-34.94,Debit,CreditCard
+2024-11-19,Lyft,-31.61,Debit,CreditCard
+2024-11-21,Groceries - Walmart,-83.64,Debit,Checking
+2024-11-21,Starbucks,-5.04,Debit,Checking
+2024-11-21,Amazon,-22.21,Debit,CreditCard
+2024-11-22,Paycheck,+2657.85,Credit,Checking
+2024-11-22,Amazon,-97.4,Debit,CreditCard
+2024-11-23,Groceries - Costco,-112.52,Debit,Checking
+2024-11-24,Groceries - Walmart,-129.67,Debit,Checking
+2024-11-25,Target,-211.17,Debit,CreditCard
+2024-11-26,Starbucks,-6.41,Debit,CreditCard
+2024-11-28,Groceries - Costco,-64.09,Debit,CreditCard
+2024-11-28,Uber,-31.96,Debit,CreditCard
+2024-11-28,Dining - Chipotle,-21.8,Debit,CreditCard
+2024-11-29,Paycheck,+2820.94,Credit,Checking
+2024-11-29,Starbucks,-7.2,Debit,Checking
+2024-11-29,Lyft,-15.9,Debit,CreditCard
+2024-11-30,Groceries - Walmart,-59.74,Debit,CreditCard
+2024-12-01,Rent,-1381.99,Debit,Checking
+2024-12-01,Groceries - Walmart,-136.05,Debit,Checking
+2024-12-01,Starbucks,-6.44,Debit,CreditCard
+2024-12-02,Groceries - Walmart,-48.36,Debit,Checking
+2024-12-03,Lyft,-33.02,Debit,CreditCard
+2024-12-03,Dining - Local Restaurant,-17.72,Debit,Checking
+2024-12-05,Gas - NationalGrid,-34.71,Debit,Checking
+2024-12-06,Paycheck,+2977.83,Credit,Checking
+2024-12-06,Starbucks,-6.39,Debit,Checking
+2024-12-06,Dining - Local Restaurant,-25.59,Debit,CreditCard
+2024-12-07,Gas - NationalGrid,-58.41,Debit,CreditCard
+2024-12-08,Groceries - Costco,-50.46,Debit,CreditCard
+2024-12-08,Starbucks,-5.58,Debit,Checking
+2024-12-08,Dining - Chipotle,-18.24,Debit,CreditCard
+2024-12-09,Gas - NationalGrid,-31.74,Debit,Checking
+2024-12-09,Groceries - Walmart,-75.5,Debit,CreditCard
+2024-12-09,Refund - Amazon,+61.05,Credit,CreditCard
+2024-12-11,Amazon,-98.79,Debit,CreditCard
+2024-12-11,Dining - Subway,-15.17,Debit,Checking
+2024-12-11,Refund - Amazon,+42.26,Credit,CreditCard
+2024-12-12,Electric Bill,-121.85,Debit,Checking
+2024-12-12,Amazon Prime,-14.55,Debit,CreditCard
+2024-12-12,Groceries - Walmart,-70.89,Debit,CreditCard
+2024-12-12,Starbucks,-4.5,Debit,Checking
+2024-12-13,Paycheck,+3318.85,Credit,Checking
+2024-12-14,Groceries - Walmart,-57.13,Debit,Checking
+2024-12-14,Dining - Local Restaurant,-33.86,Debit,CreditCard
+2024-12-15,Dining - Local Restaurant,-17.87,Debit,Checking
+2024-12-16,Groceries - Costco,-65.34,Debit,CreditCard
+2024-12-16,Dining - Subway,-29.9,Debit,CreditCard
+2024-12-17,Groceries - Costco,-161.34,Debit,CreditCard
+2024-12-18,Spotify,-12.56,Debit,CreditCard
+2024-12-18,Netflix,-15.66,Debit,CreditCard
+2024-12-18,Groceries - Walmart,-46.2,Debit,Checking
+2024-12-18,Starbucks,-6.15,Debit,Checking
+2024-12-18,Target,-221.27,Debit,CreditCard
+2024-12-19,Starbucks,-4.37,Debit,CreditCard
+2024-12-20,Paycheck,+2635.12,Credit,Checking
+2024-12-20,Groceries - Walmart,-79.01,Debit,Checking
+2024-12-20,Starbucks,-3.25,Debit,Checking
+2024-12-21,Groceries - Walmart,-135.67,Debit,Checking
+2024-12-21,Starbucks,-7.76,Debit,Checking
+2024-12-22,Groceries - Walmart,-78.07,Debit,CreditCard
+2024-12-22,Lyft,-27.91,Debit,CreditCard
+2024-12-22,Dining - Local Restaurant,-29.4,Debit,CreditCard
+2024-12-25,Amazon,-49.27,Debit,CreditCard
+2024-12-26,Starbucks,-4.61,Debit,CreditCard
+2024-12-26,Dining - Chipotle,-19.57,Debit,Checking
+2024-12-27,Paycheck,+2984.71,Credit,Checking
+2024-12-27,Starbucks,-4.44,Debit,CreditCard
+2024-12-30,Starbucks,-3.96,Debit,CreditCard
+2024-12-30,Amazon,-34.29,Debit,CreditCard
+2024-12-30,Dining - Local Restaurant,-8.97,Debit,CreditCard
+2025-01-01,Rent,-1303.34,Debit,Checking
+2025-01-02,Groceries - Walmart,-115.84,Debit,Checking
+2025-01-03,Paycheck,+2865.25,Credit,Checking
+2025-01-03,Starbucks,-3.36,Debit,CreditCard
+2025-01-03,Uber,-38.11,Debit,CreditCard
+2025-01-05,Gas - NationalGrid,-108.83,Debit,Checking
+2025-01-05,Amazon,-94.21,Debit,CreditCard
+2025-01-05,Dining - Local Restaurant,-19.25,Debit,Checking
+2025-01-06,Groceries - Walmart,-137.04,Debit,CreditCard
+2025-01-06,Starbucks,-4.52,Debit,Checking
+2025-01-06,Dining - Chipotle,-27.69,Debit,Checking
+2025-01-07,Internet - Spectrum,-68.97,Debit,CreditCard
+2025-01-09,Water Bill,-59.39,Debit,CreditCard
+2025-01-09,Dining - Chipotle,-22.7,Debit,CreditCard
+2025-01-10,Paycheck,+2733.86,Credit,Checking
+2025-01-10,Amazon,-76.17,Debit,CreditCard
+2025-01-11,Starbucks,-5.57,Debit,CreditCard
+2025-01-12,Gas - NationalGrid,-92.75,Debit,CreditCard
+2025-01-12,Amazon Prime,-15.14,Debit,CreditCard
+2025-01-13,Starbucks,-4.73,Debit,CreditCard
+2025-01-15,Best Buy,-24.34,Debit,CreditCard
+2025-01-16,Groceries - Walmart,-55.85,Debit,Checking
+2025-01-17,Paycheck,+3003.84,Credit,Checking
+2025-01-18,Spotify,-9.53,Debit,CreditCard
+2025-01-18,Netflix,-16.92,Debit,CreditCard
+2025-01-18,Groceries - Costco,-95.76,Debit,CreditCard
+2025-01-19,Dining - Local Restaurant,-26.2,Debit,CreditCard
+2025-01-21,Uber,-33.08,Debit,CreditCard
+2025-01-22,Groceries - Walmart,-36.22,Debit,Checking
+2025-01-23,Groceries - Walmart,-76.02,Debit,CreditCard
+2025-01-23,Uber,-16.89,Debit,CreditCard
+2025-01-24,Paycheck,+2654.0,Credit,Checking
+2025-01-24,Starbucks,-7.85,Debit,Checking
+2025-01-24,Lyft,-20.92,Debit,CreditCard
+2025-01-25,Groceries - Costco,-111.57,Debit,CreditCard
+2025-01-26,Amazon,-114.66,Debit,CreditCard
+2025-01-27,Dining - Chipotle,-34.06,Debit,CreditCard
+2025-01-29,Lyft,-12.95,Debit,CreditCard
+2025-01-30,Groceries - Walmart,-94.63,Debit,CreditCard
+2025-01-30,Dining - Subway,-23.74,Debit,CreditCard
+2025-01-31,Paycheck,+2960.2,Credit,Checking
+2025-02-01,Rent,-1220.38,Debit,Checking
+2025-02-01,Groceries - Costco,-118.04,Debit,CreditCard
+2025-02-01,Starbucks,-6.74,Debit,Checking
+2025-02-02,Starbucks,-5.95,Debit,Checking
+2025-02-03,Groceries - Costco,-75.87,Debit,CreditCard
+2025-02-03,Amazon,-33.58,Debit,CreditCard
+2025-02-04,Groceries - Costco,-122.61,Debit,CreditCard
+2025-02-04,Dining - Local Restaurant,-33.69,Debit,CreditCard
+2025-02-05,Electric Bill,-124.41,Debit,CreditCard
+2025-02-06,Uber,-19.88,Debit,CreditCard
+2025-02-07,Paycheck,+2815.08,Credit,Checking
+2025-02-07,Water Bill,-34.74,Debit,CreditCard
+2025-02-09,Water Bill,-52.99,Debit,Checking
+2025-02-09,Groceries - Costco,-119.91,Debit,Checking
+2025-02-09,Starbucks,-4.51,Debit,CreditCard
+2025-02-09,Amazon,-111.98,Debit,CreditCard
+2025-02-09,Dining - Subway,-28.64,Debit,Checking
+2025-02-10,Dining - Chipotle,-13.01,Debit,CreditCard
+2025-02-11,Amazon,-44.08,Debit,CreditCard
+2025-02-12,Gas - NationalGrid,-78.2,Debit,CreditCard
+2025-02-12,Amazon Prime,-14.07,Debit,CreditCard
+2025-02-12,Groceries - Walmart,-121.14,Debit,Checking
+2025-02-13,Groceries - Costco,-131.01,Debit,Checking
+2025-02-13,Amazon,-70.87,Debit,CreditCard
+2025-02-14,Paycheck,+3287.05,Credit,Checking
+2025-02-15,Groceries - Costco,-161.26,Debit,CreditCard
+2025-02-15,Starbucks,-6.47,Debit,CreditCard
+2025-02-15,Amazon,-10.22,Debit,CreditCard
+2025-02-16,Starbucks,-3.42,Debit,Checking
+2025-02-16,Uber,-13.3,Debit,CreditCard
+2025-02-17,Groceries - Walmart,-54.46,Debit,Checking
+2025-02-17,Dining - Subway,-18.56,Debit,Checking
+2025-02-18,Spotify,-9.88,Debit,CreditCard
+2025-02-18,Netflix,-17.68,Debit,CreditCard
+2025-02-19,Starbucks,-5.5,Debit,CreditCard
+2025-02-20,Groceries - Walmart,-96.62,Debit,Checking
+2025-02-20,Starbucks,-4.69,Debit,Checking
+2025-02-21,Paycheck,+3316.54,Credit,Checking
+2025-02-21,Groceries - Costco,-131.4,Debit,Checking
+2025-02-21,Uber,-33.37,Debit,CreditCard
+2025-02-21,Amazon,-71.67,Debit,CreditCard
+2025-02-22,Groceries - Costco,-41.8,Debit,CreditCard
+2025-02-23,Dining - Local Restaurant,-31.08,Debit,CreditCard
+2025-02-24,Starbucks,-4.94,Debit,CreditCard
+2025-02-25,Dining - Subway,-25.5,Debit,CreditCard
+2025-02-26,Groceries - Walmart,-118.42,Debit,CreditCard
+2025-02-27,Groceries - Walmart,-70.98,Debit,CreditCard
+2025-02-27,Starbucks,-4.85,Debit,Checking
+2025-02-28,Paycheck,+2606.69,Credit,Checking
+2025-02-28,Groceries - Walmart,-102.79,Debit,Checking
+2025-02-28,Lyft,-33.74,Debit,CreditCard
+2025-03-01,Rent,-1353.3,Debit,Checking
+2025-03-02,Dining - Subway,-32.04,Debit,CreditCard
+2025-03-04,Starbucks,-5.37,Debit,CreditCard
+2025-03-05,Electric Bill,-79.32,Debit,CreditCard
+2025-03-05,Groceries - Costco,-116.47,Debit,CreditCard
+2025-03-05,Dining - Chipotle,-26.8,Debit,CreditCard
+2025-03-07,Paycheck,+3351.25,Credit,Checking
+2025-03-07,Gas - NationalGrid,-87.27,Debit,CreditCard
+2025-03-07,Groceries - Costco,-88.51,Debit,CreditCard
+2025-03-07,Starbucks,-6.47,Debit,CreditCard
+2025-03-08,Dining - Subway,-26.87,Debit,Checking
+2025-03-09,Internet - Spectrum,-77.29,Debit,CreditCard
+2025-03-09,Groceries - Walmart,-58.55,Debit,CreditCard
+2025-03-09,Starbucks,-7.4,Debit,Checking
+2025-03-09,Dining - Subway,-26.0,Debit,CreditCard
+2025-03-11,Starbucks,-5.88,Debit,CreditCard
+2025-03-11,Lyft,-11.04,Debit,CreditCard
+2025-03-12,Internet - Spectrum,-92.27,Debit,CreditCard
+2025-03-12,Amazon Prime,-15.57,Debit,CreditCard
+2025-03-12,Starbucks,-3.2,Debit,Checking
+2025-03-12,Amazon,-49.65,Debit,CreditCard
+2025-03-13,Groceries - Walmart,-101.98,Debit,CreditCard
+2025-03-13,Starbucks,-3.07,Debit,Checking
+2025-03-14,Paycheck,+3269.7,Credit,Checking
+2025-03-18,Spotify,-9.21,Debit,CreditCard
+2025-03-18,Netflix,-13.64,Debit,CreditCard
+2025-03-18,Dining - Subway,-21.51,Debit,Checking
+2025-03-20,Groceries - Costco,-166.93,Debit,Checking
+2025-03-20,Dining - Local Restaurant,-8.52,Debit,Checking
+2025-03-21,Paycheck,+3087.76,Credit,Checking
+2025-03-22,Groceries - Costco,-67.66,Debit,Checking
+2025-03-23,Groceries - Walmart,-35.72,Debit,CreditCard
+2025-03-23,Starbucks,-5.12,Debit,CreditCard
+2025-03-23,Lyft,-27.42,Debit,CreditCard
+2025-03-24,Groceries - Costco,-195.34,Debit,Checking
+2025-03-25,Starbucks,-7.49,Debit,CreditCard
+2025-03-26,Groceries - Costco,-100.35,Debit,CreditCard
+2025-03-26,Starbucks,-7.88,Debit,CreditCard
+2025-03-27,Groceries - Walmart,-37.81,Debit,Checking
+2025-03-27,Starbucks,-4.15,Debit,Checking
+2025-03-27,Dining - Local Restaurant,-12.52,Debit,CreditCard
+2025-03-28,Paycheck,+3378.46,Credit,Checking
+2025-03-29,Groceries - Walmart,-55.58,Debit,Checking
+2025-03-29,Starbucks,-4.28,Debit,CreditCard
+2025-03-29,Dining - Chipotle,-13.68,Debit,Checking
+2025-03-30,Groceries - Costco,-101.68,Debit,Checking
+2025-03-30,Amazon,-43.27,Debit,CreditCard
+2025-03-31,Groceries - Costco,-144.53,Debit,Checking
+2025-04-01,Rent,-1216.45,Debit,Checking
+2025-04-01,Amazon,-60.43,Debit,CreditCard
+2025-04-04,Paycheck,+2994.06,Credit,Checking
+2025-04-05,Electric Bill,-96.32,Debit,CreditCard
+2025-04-05,Starbucks,-3.98,Debit,Checking
+2025-04-07,Water Bill,-25.65,Debit,CreditCard
+2025-04-07,Starbucks,-4.39,Debit,CreditCard
+2025-04-08,Amazon,-97.75,Debit,CreditCard
+2025-04-09,Gas - NationalGrid,-80.11,Debit,Checking
+2025-04-10,Starbucks,-4.32,Debit,Checking
+2025-04-10,Lyft,-35.86,Debit,CreditCard
+2025-04-11,Paycheck,+2721.64,Credit,Checking
+2025-04-11,Uber,-23.56,Debit,CreditCard
+2025-04-11,Dining - Chipotle,-15.87,Debit,Checking
+2025-04-12,Electric Bill,-79.05,Debit,CreditCard
+2025-04-12,Amazon Prime,-15.73,Debit,CreditCard
+2025-04-14,Groceries - Walmart,-52.49,Debit,CreditCard
+2025-04-15,Starbucks,-3.17,Debit,Checking
+2025-04-16,Groceries - Walmart,-79.39,Debit,CreditCard
+2025-04-16,Starbucks,-3.25,Debit,CreditCard
+2025-04-16,Amazon,-40.92,Debit,CreditCard
+2025-04-16,Dining - Subway,-18.25,Debit,CreditCard
+2025-04-17,Groceries - Walmart,-112.58,Debit,CreditCard
+2025-04-17,Starbucks,-6.86,Debit,CreditCard
+2025-04-18,Paycheck,+2909.86,Credit,Checking
+2025-04-18,Spotify,-9.26,Debit,CreditCard
+2025-04-18,Netflix,-10.15,Debit,CreditCard
+2025-04-20,Groceries - Walmart,-123.29,Debit,Checking
+2025-04-21,Starbucks,-6.58,Debit,CreditCard
+2025-04-22,Groceries - Costco,-54.21,Debit,CreditCard
+2025-04-23,Groceries - Costco,-107.05,Debit,CreditCard
+2025-04-23,Lyft,-10.96,Debit,CreditCard
+2025-04-25,Paycheck,+3200.94,Credit,Checking
+2025-04-26,Groceries - Costco,-78.24,Debit,Checking
+2025-04-27,Dining - Subway,-12.99,Debit,CreditCard
+2025-04-28,Groceries - Walmart,-121.4,Debit,Checking
+2025-04-28,Starbucks,-6.67,Debit,CreditCard
+2025-04-29,Amazon,-109.27,Debit,CreditCard
+2025-05-01,Rent,-1279.9,Debit,Checking
+2025-05-01,Groceries - Costco,-41.95,Debit,CreditCard
+2025-05-01,Amazon,-61.04,Debit,CreditCard
+2025-05-01,Dining - Local Restaurant,-34.48,Debit,CreditCard
+2025-05-02,Paycheck,+2653.79,Credit,Checking
+2025-05-02,Uber,-29.08,Debit,CreditCard
+2025-05-02,Dining - Local Restaurant,-12.66,Debit,CreditCard
+2025-05-03,Groceries - Costco,-208.9,Debit,Checking
+2025-05-04,Groceries - Walmart,-35.54,Debit,CreditCard
+2025-05-04,Starbucks,-6.46,Debit,CreditCard
+2025-05-05,Internet - Spectrum,-83.11,Debit,CreditCard
+2025-05-05,Groceries - Walmart,-120.59,Debit,Checking
+2025-05-06,Groceries - Costco,-77.63,Debit,Checking
+2025-05-06,Starbucks,-5.33,Debit,Checking
+2025-05-07,Electric Bill,-124.67,Debit,CreditCard
+2025-05-08,Amazon,-54.85,Debit,CreditCard
+2025-05-08,Dining - Subway,-25.72,Debit,Checking
+2025-05-09,Paycheck,+3049.75,Credit,Checking
+2025-05-09,Water Bill,-48.59,Debit,Checking
+2025-05-09,Groceries - Walmart,-75.94,Debit,CreditCard
+2025-05-09,Starbucks,-6.06,Debit,CreditCard
+2025-05-09,Dining - Local Restaurant,-17.58,Debit,CreditCard
+2025-05-10,Groceries - Walmart,-121.7,Debit,Checking
+2025-05-11,Groceries - Walmart,-75.45,Debit,CreditCard
+2025-05-11,Amazon,-30.0,Debit,CreditCard
+2025-05-11,Dining - Local Restaurant,-30.34,Debit,CreditCard
+2025-05-12,Internet - Spectrum,-76.77,Debit,CreditCard
+2025-05-12,Amazon Prime,-13.5,Debit,CreditCard
+2025-05-13,Groceries - Costco,-199.51,Debit,CreditCard
+2025-05-15,Groceries - Costco,-189.93,Debit,Checking
+2025-05-16,Paycheck,+2800.94,Credit,Checking
+2025-05-17,Groceries - Costco,-88.96,Debit,Checking
+2025-05-17,Starbucks,-7.89,Debit,Checking
+2025-05-18,Spotify,-11.68,Debit,CreditCard
+2025-05-18,Netflix,-16.44,Debit,CreditCard
+2025-05-19,Target,-88.85,Debit,CreditCard
+2025-05-20,Groceries - Costco,-138.36,Debit,CreditCard
+2025-05-21,Starbucks,-4.97,Debit,Checking
+2025-05-21,Lyft,-8.53,Debit,CreditCard
+2025-05-22,Groceries - Walmart,-32.61,Debit,CreditCard
+2025-05-22,Amazon,-105.53,Debit,CreditCard
+2025-05-23,Paycheck,+2640.5,Credit,Checking
+2025-05-23,Groceries - Walmart,-93.13,Debit,CreditCard
+2025-05-23,Lyft,-26.66,Debit,CreditCard
+2025-05-23,Amazon,-43.71,Debit,CreditCard
+2025-05-23,Dining - Local Restaurant,-23.89,Debit,CreditCard
+2025-05-25,Groceries - Costco,-138.98,Debit,CreditCard
+2025-05-25,Starbucks,-5.13,Debit,Checking
+2025-05-26,Uber,-22.4,Debit,CreditCard
+2025-05-27,Groceries - Costco,-175.44,Debit,Checking
+2025-05-27,Starbucks,-5.46,Debit,CreditCard
+2025-05-28,Groceries - Walmart,-92.92,Debit,Checking
+2025-05-28,Dining - Local Restaurant,-15.24,Debit,CreditCard
+2025-05-29,Groceries - Costco,-162.35,Debit,CreditCard
+2025-05-29,Starbucks,-3.17,Debit,Checking
+2025-05-29,Dining - Chipotle,-25.32,Debit,Checking
+2025-05-30,Paycheck,+3308.87,Credit,Checking
+2025-05-31,Dining - Chipotle,-27.92,Debit,CreditCard
+2025-06-01,Rent,-1334.25,Debit,Checking
+2025-06-01,Groceries - Costco,-54.62,Debit,Checking
+2025-06-03,Groceries - Walmart,-77.02,Debit,Checking
+2025-06-04,Dining - Local Restaurant,-30.1,Debit,Checking
+2025-06-05,Gas - NationalGrid,-110.09,Debit,CreditCard
+2025-06-06,Paycheck,+2682.27,Credit,Checking
+2025-06-06,Groceries - Costco,-216.25,Debit,CreditCard
+2025-06-07,Internet - Spectrum,-84.13,Debit,CreditCard
+2025-06-08,Starbucks,-6.13,Debit,Checking
+2025-06-08,Dining - Subway,-11.54,Debit,CreditCard
+2025-06-09,Water Bill,-53.98,Debit,Checking
+2025-06-09,Groceries - Costco,-172.15,Debit,Checking
+2025-06-10,Groceries - Costco,-54.69,Debit,CreditCard
+2025-06-10,Uber,-28.2,Debit,CreditCard
+2025-06-11,Groceries - Costco,-159.49,Debit,Checking
+2025-06-11,Lyft,-36.49,Debit,CreditCard
+2025-06-12,Water Bill,-22.78,Debit,Checking
+2025-06-12,Amazon Prime,-13.27,Debit,CreditCard
+2025-06-12,Dining - Subway,-27.3,Debit,CreditCard
+2025-06-13,Paycheck,+3020.38,Credit,Checking
+2025-06-14,Groceries - Walmart,-30.12,Debit,Checking
+2025-06-15,Groceries - Costco,-171.18,Debit,Checking
+2025-06-16,Groceries - Walmart,-121.47,Debit,Checking
+2025-06-16,Amazon,-90.18,Debit,CreditCard
+2025-06-17,Groceries - Walmart,-108.34,Debit,CreditCard
+2025-06-17,Amazon,-103.63,Debit,CreditCard
+2025-06-18,Spotify,-11.06,Debit,CreditCard
+2025-06-18,Netflix,-10.68,Debit,CreditCard
+2025-06-19,Groceries - Walmart,-40.63,Debit,Checking
+2025-06-19,Starbucks,-7.94,Debit,Checking
+2025-06-20,Paycheck,+3066.17,Credit,Checking
+2025-06-21,Groceries - Walmart,-44.65,Debit,Checking
+2025-06-23,Groceries - Walmart,-61.3,Debit,Checking
+2025-06-23,Dining - Subway,-11.39,Debit,Checking
+2025-06-24,Groceries - Walmart,-82.63,Debit,CreditCard
+2025-06-24,Amazon,-21.6,Debit,CreditCard
+2025-06-25,Groceries - Walmart,-100.16,Debit,Checking
+2025-06-25,Lyft,-23.94,Debit,CreditCard
+2025-06-27,Paycheck,+3112.77,Credit,Checking
+2025-06-27,Starbucks,-6.51,Debit,Checking
+2025-06-28,Groceries - Walmart,-36.26,Debit,Checking
+2025-06-30,Amazon,-65.65,Debit,CreditCard
+2025-06-30,Dining - Chipotle,-25.77,Debit,Checking
+2025-07-01,Rent,-1290.35,Debit,Checking
+2025-07-01,Groceries - Costco,-112.13,Debit,Checking
+2025-07-01,Starbucks,-7.42,Debit,CreditCard
+2025-07-02,Starbucks,-7.07,Debit,Checking
+2025-07-04,Paycheck,+2913.39,Credit,Checking
+2025-07-04,Groceries - Walmart,-110.78,Debit,CreditCard
+2025-07-04,Starbucks,-3.29,Debit,Checking
+2025-07-05,Internet - Spectrum,-73.82,Debit,CreditCard
+2025-07-05,Uber,-26.11,Debit,CreditCard
+2025-07-06,Groceries - Walmart,-46.66,Debit,CreditCard
+2025-07-06,Best Buy,-306.95,Debit,CreditCard
+2025-07-07,Water Bill,-23.21,Debit,Checking
+2025-07-08,Groceries - Costco,-197.52,Debit,Checking
+2025-07-08,Dining - Local Restaurant,-18.95,Debit,Checking
+2025-07-09,Water Bill,-43.23,Debit,CreditCard
+2025-07-10,Starbucks,-7.07,Debit,Checking
+2025-07-10,Amazon,-80.84,Debit,CreditCard
+2025-07-11,Paycheck,+3079.57,Credit,Checking
+2025-07-11,Dining - Chipotle,-30.15,Debit,CreditCard
+2025-07-12,Gas - NationalGrid,-82.92,Debit,CreditCard
+2025-07-12,Amazon Prime,-14.06,Debit,CreditCard
+2025-07-13,Groceries - Walmart,-135.37,Debit,CreditCard
+2025-07-14,Groceries - Costco,-50.73,Debit,Checking
+2025-07-15,Groceries - Walmart,-78.6,Debit,CreditCard
+2025-07-15,Starbucks,-3.92,Debit,Checking
+2025-07-15,Dining - Chipotle,-18.74,Debit,Checking
+2025-07-16,Amazon,-16.82,Debit,CreditCard
+2025-07-16,Dining - Subway,-23.49,Debit,CreditCard
+2025-07-17,Amazon,-14.85,Debit,CreditCard
+2025-07-17,Dining - Subway,-22.61,Debit,CreditCard
+2025-07-18,Paycheck,+2636.47,Credit,Checking
+2025-07-18,Spotify,-12.78,Debit,CreditCard
+2025-07-18,Netflix,-16.74,Debit,CreditCard
+2025-07-18,Groceries - Costco,-53.89,Debit,CreditCard
+2025-07-18,Starbucks,-3.63,Debit,Checking
+2025-07-19,Amazon,-71.02,Debit,CreditCard
+2025-07-19,Dining - Local Restaurant,-8.11,Debit,Checking
+2025-07-20,Dining - Local Restaurant,-17.06,Debit,Checking
+2025-07-21,Groceries - Costco,-212.21,Debit,CreditCard
+2025-07-22,Groceries - Walmart,-49.69,Debit,CreditCard
+2025-07-23,Groceries - Costco,-90.51,Debit,CreditCard
+2025-07-24,Starbucks,-5.0,Debit,CreditCard
+2025-07-24,Dining - Subway,-29.58,Debit,Checking
+2025-07-25,Paycheck,+3184.7,Credit,Checking
+2025-07-25,Groceries - Costco,-144.1,Debit,CreditCard
+2025-07-25,Dining - Subway,-26.69,Debit,CreditCard
+2025-07-26,Groceries - Costco,-138.75,Debit,Checking
+2025-07-26,Dining - Local Restaurant,-26.24,Debit,CreditCard
+2025-07-27,Groceries - Walmart,-47.46,Debit,Checking
+2025-07-28,Groceries - Walmart,-103.61,Debit,Checking
+2025-07-29,Groceries - Costco,-124.91,Debit,Checking
+2025-07-30,Groceries - Costco,-180.44,Debit,Checking
+2025-07-31,Amazon,-56.1,Debit,CreditCard
+2025-08-01,Paycheck,+2830.55,Credit,Checking
+2025-08-01,Rent,-1201.29,Debit,Checking
+2025-08-01,Amazon,-113.56,Debit,CreditCard
+2025-08-01,Dining - Local Restaurant,-20.73,Debit,Checking
+2025-08-03,Groceries - Costco,-195.1,Debit,Checking
+2025-08-05,Gas - NationalGrid,-52.22,Debit,CreditCard
+2025-08-05,Groceries - Costco,-139.92,Debit,Checking
+2025-08-05,Dining - Subway,-10.37,Debit,CreditCard
+2025-08-06,Starbucks,-4.42,Debit,CreditCard
+2025-08-06,Dining - Chipotle,-25.53,Debit,Checking
+2025-08-07,Internet - Spectrum,-91.95,Debit,CreditCard
+2025-08-07,Starbucks,-3.77,Debit,Checking
+2025-08-08,Paycheck,+3143.25,Credit,Checking
+2025-08-09,Electric Bill,-78.49,Debit,CreditCard
+2025-08-09,Best Buy,-210.02,Debit,CreditCard
+2025-08-12,Electric Bill,-137.25,Debit,CreditCard
+2025-08-12,Amazon Prime,-14.18,Debit,CreditCard
+2025-08-12,Groceries - Walmart,-103.89,Debit,CreditCard
+2025-08-13,Groceries - Walmart,-100.97,Debit,CreditCard
+2025-08-15,Paycheck,+2746.25,Credit,Checking
+2025-08-15,Amazon,-21.99,Debit,CreditCard
+2025-08-17,Groceries - Walmart,-105.94,Debit,Checking
+2025-08-18,Spotify,-11.04,Debit,CreditCard
+2025-08-18,Netflix,-10.96,Debit,CreditCard
+2025-08-18,Groceries - Costco,-184.43,Debit,CreditCard
+2025-08-21,Groceries - Costco,-169.14,Debit,CreditCard
+2025-08-21,Dining - Chipotle,-30.58,Debit,Checking
+2025-08-22,Paycheck,+2751.36,Credit,Checking
+2025-08-23,Starbucks,-7.19,Debit,Checking
+2025-08-24,Starbucks,-5.04,Debit,CreditCard
+2025-08-24,Target,-278.08,Debit,CreditCard
+2025-08-25,Groceries - Walmart,-133.63,Debit,Checking
+2025-08-25,Dining - Chipotle,-8.29,Debit,Checking
+2025-08-27,Best Buy,-114.99,Debit,CreditCard
+2025-08-27,Dining - Subway,-25.9,Debit,CreditCard
+2025-08-28,Groceries - Costco,-115.99,Debit,Checking
+2025-08-29,Paycheck,+2966.42,Credit,Checking
+2025-08-29,Groceries - Costco,-175.38,Debit,CreditCard
+2025-08-30,Lyft,-14.54,Debit,CreditCard
+2025-08-30,Refund - Amazon,+110.65,Credit,CreditCard
+2025-08-31,Amazon,-89.64,Debit,CreditCard

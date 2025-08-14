@@ -1,0 +1,3 @@
+AutoAdvisor Summary
+Period: {{ period_start }} to {{ period_end }}
+(We’ll fill this later.)

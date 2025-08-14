@@ -1,0 +1,7 @@
+data:
+  transactions_path: "data/mock_transactions.csv"
+  investments_path: "data/investments.csv"
+  cleaned_transactions_path: "data/cleaned_transactions.parquet"
+ai:
+  provider: "hf"          # "none" or "hf"
+  model: "HuggingFaceH4/zephyr-7b-beta"   # or "google/flan-t5-large"

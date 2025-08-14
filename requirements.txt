@@ -1,0 +1,11 @@
+pandas
+numpy
+python-dotenv
+jinja2
+schedule
+matplotlib
+streamlit
+openai
+yfinance
+fpdf
+sendgrid
